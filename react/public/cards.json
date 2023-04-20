@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "value": 1,
+    "front": "./public/assets/hearts_ace.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 2,
+    "value": 1,
+    "front": "./public/assets/hearts_ace.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 3,
+    "value": 2,
+    "front": "./public/assets/hearts_jack.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 4,
+    "value": 2,
+    "front": "./public/assets/hearts_jack.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 5,
+    "value": 3,
+    "front": "./public/assets/hearts_queen.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 6,
+    "value": 3,
+    "front": "./public/assets/hearts_queen.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 7,
+    "value": 4,
+    "front": "./public/assets/hearts_king.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 8,
+    "value": 4,
+    "front": "./public/assets/hearts_king.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 9,
+    "value": 5,
+    "front": "./public/assets/spades_ace.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 10,
+    "value": 5,
+    "front": "./public/assets/spades_ace.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 11,
+    "value": 6,
+    "front": "./public/assets/spades_jack.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 12,
+    "value": 6,
+    "front": "./public/assets/spades_jack.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 13,
+    "value": 7,
+    "front": "./public/assets/spades_queen.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 14,
+    "value": 7,
+    "front": "./public/assets/spades_queen.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 15,
+    "value": 8,
+    "front": "./public/assets/spades_king.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  },
+  {
+    "id": 16,
+    "value": 8,
+    "front": "./public/assets/spades_king.svg",
+    "back": "./public/assets/blue.svg",
+    "flipped": false
+  }
+]
